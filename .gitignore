@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.sln
+*.user
+*.userosscache
+*.suo
+*.cache
+*.pdb
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# ASP.NET
+bin/
+obj/
+packages/
